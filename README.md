@@ -2,9 +2,8 @@
 
 ## 🚀 About Me
 
-- I am (insert name), a **(insert major)** studying at the (insert university)! 
-- I am currently a (insert job position) for the (insert company)! 
-- I have previously worked as a (insert job position) for (insert company name)!
+- I am Esneider Gomez, an electrical engineer studying at the University of South Florida! 
+- I have previously worked as a power engineer intern for Air Force civilian Services!
 
 📚 Outside the tech world, (add your own content here!)
 
